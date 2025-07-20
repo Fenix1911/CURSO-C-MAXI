@@ -1,0 +1,15 @@
+C:\Users\alvar\OneDrive\Escritorio\C# MAXI\calculadoraEjercicio\bin\Debug\net9.0\calculadoraEjercicio.exe
+C:\Users\alvar\OneDrive\Escritorio\C# MAXI\calculadoraEjercicio\bin\Debug\net9.0\calculadoraEjercicio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\C# MAXI\calculadoraEjercicio\bin\Debug\net9.0\calculadoraEjercicio.runtimeconfig.json
+C:\Users\alvar\OneDrive\Escritorio\C# MAXI\calculadoraEjercicio\bin\Debug\net9.0\calculadoraEjercicio.dll
+C:\Users\alvar\OneDrive\Escritorio\C# MAXI\calculadoraEjercicio\bin\Debug\net9.0\calculadoraEjercicio.pdb
+C:\Users\alvar\OneDrive\Escritorio\C# MAXI\calculadoraEjercicio\obj\Debug\net9.0\calculadoraEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\C# MAXI\calculadoraEjercicio\obj\Debug\net9.0\calculadoraEjercicio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\C# MAXI\calculadoraEjercicio\obj\Debug\net9.0\calculadoraEjercicio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\C# MAXI\calculadoraEjercicio\obj\Debug\net9.0\calculadoraEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\C# MAXI\calculadoraEjercicio\obj\Debug\net9.0\calculadoraEjercicio.sourcelink.json
+C:\Users\alvar\OneDrive\Escritorio\C# MAXI\calculadoraEjercicio\obj\Debug\net9.0\calculadoraEjercicio.dll
+C:\Users\alvar\OneDrive\Escritorio\C# MAXI\calculadoraEjercicio\obj\Debug\net9.0\refint\calculadoraEjercicio.dll
+C:\Users\alvar\OneDrive\Escritorio\C# MAXI\calculadoraEjercicio\obj\Debug\net9.0\calculadoraEjercicio.pdb
+C:\Users\alvar\OneDrive\Escritorio\C# MAXI\calculadoraEjercicio\obj\Debug\net9.0\calculadoraEjercicio.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Escritorio\C# MAXI\calculadoraEjercicio\obj\Debug\net9.0\ref\calculadoraEjercicio.dll
